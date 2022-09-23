@@ -59,7 +59,7 @@ const DesktopBody = () => {
 
                 <p><br /><br />cookjamesarthur (at) gmail [dot] com</p>
                 
-                <p><br />thanks for visiting my wwweb world. google Murray Bookchin</p><br /><br /><br /><br /><br /><br />
+                <p><br />Thanks for visiting my wwweb world. More soon</p><br /><br /><br /><br /><br /><br />
             
             </div>
         </div>
